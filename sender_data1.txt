@@ -1,0 +1,2 @@
+news_eit@ingenieriayciencias.infoudp.cl
+^(=?[a-z0-9]{1,20}\.)(=?[a-z0-9]{1,5}\@)cl1.fidelizador.org$

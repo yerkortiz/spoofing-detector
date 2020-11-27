@@ -1,0 +1,2 @@
+noreply@codeforces.com
+^(=?[0-9]{9,10}\.)(=?[0-9]{3,7}\.)(=?[0-9]{13}\.)JavaMail\.noreply\@codeforces\.com$
